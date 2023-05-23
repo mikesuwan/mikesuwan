@@ -29,7 +29,7 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20server-red?style=for-the-badge&logo=sqlservers&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
