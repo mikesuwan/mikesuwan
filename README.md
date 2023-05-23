@@ -6,7 +6,7 @@
 - **เดือนปี **: ปริญญาตรี จาก มหาวิทยาลัยมหาสารคาม สาขาคอมพิวเตอร์ธุรกิจ
 
 **ผลงานที่เคยทำ**:
-- หดหดหด
+- ระบบอ่านหนังสือออนไลน์ [คลิกเพื่อเข้าชมผลงาน www.bookoins.com](www.bookoins.com) ลิ้งเสียแล้ว
 
 <!---
 mikeaom/mikeaom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
