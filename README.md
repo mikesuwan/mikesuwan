@@ -99,6 +99,9 @@
   </tr>
 </table>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
 <!-- ![PHP](https://img.shields.io/badge/-php-blue?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![HTML]()&nbsp;
 ![CSS]()&nbsp;
