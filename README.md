@@ -11,6 +11,8 @@
 - ระบบการเรียนการสอนอบรมวิชาการแบบวีดีทัศน์ออนไลน์ทางสัตวแพทย์ [คลิกเพื่อเข้าชมผลงาน www.vao-ce.com](https://www.vao-ce.com/)
 - เว็บไซต์ธุรกิจเสนอ สินค้าและบริการเกี่ยวกับ Interior ตกแต่งภายใน [คลิกเพื่อเข้าชมผลงาน www.tnsgrand.com](https://tnsgrand.com/)
 - เว็บไซต์ธุรกิจเสนอ สินค้าและบริการเกี่ยวกับ เหล็กสำเร็จรูป [คลิกเพื่อเข้าชมผลงาน www.unofence.com](https://www.unofence.com/)
+- เว็บไซต์ธุรกิจเสนอ องค์กรที่พัฒนาระบบการนตลาดแบบแนะนำธุรกิจ [คลิกเพื่อเข้าชมผลงาน www.bnirisingstar.com](https://bnirisingstar.com/)
+
 
 <!---
 mikeaom/mikeaom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
