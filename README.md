@@ -16,7 +16,7 @@
 - ระบบ Cash Card System ระบบศูนย์อาหาร ระบบบัตรเติมเงิน Food Court System ที่ สหกรณ์ออมทรัพย์ตำรวจตระเวนชายแดนที่ 22 จังหวัดอุบลราชธานี
 - ระบบภายใน Thanasang Metal เช่น ระบบดูราคาสินค้า, ระบบจัดเก็บไฟล์, ระบบดูรายการรีพอร์ตต่างๆ
 - ระบบจัดการบัญชีข้อมูล เกี่ยวกับจัดเก็บข้อมูล Email, FB, Youtube, Tiktok, Line เป็นต้น
-- เว็บไซร์ โครงการสอบชิงทุนนักเรียนแลกเปลี่ยนภาษาและวัฒนธรรม 2024 OCT [คลิกเพื่อเข้าชมผลงาน www.bewise-academy.com/Bewise-Global-Exchange/](https://bewise-academy.com/Bewise-Global-Exchange/)
+- เว็บไซร์โครงการสอบชิงทุนนักเรียนแลกเปลี่ยนภาษาและวัฒนธรรม 2024 OCT [คลิกเพื่อเข้าชมผลงาน www.bewise-academy.com/Bewise-Global-Exchange/](https://bewise-academy.com/Bewise-Global-Exchange/)
 
 ## Skills:
 
