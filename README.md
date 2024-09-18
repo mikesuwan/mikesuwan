@@ -18,6 +18,7 @@
 - ระบบจัดการบัญชีข้อมูล เกี่ยวกับจัดเก็บข้อมูล Email, FB, Youtube, Tiktok, Line เป็นต้น
 - เว็บไซต์โครงการสอบชิงทุนนักเรียนแลกเปลี่ยนภาษาและวัฒนธรรม 2024 OCT [คลิกเพื่อเข้าชมผลงาน www.bewise-academy.com/Bewise-Global-Exchange/](https://bewise-academy.com/Bewise-Global-Exchange/)
 - เว็บไซต์โครงการแลกเปลี่ยนภาษา ระยะสั้น 4 สัปดาห์ 2024 [คลิกเพื่อเข้าชมผลงาน www.inter-x.co/](https://inter-x.co/)
+- เว็บไซต์โครงการสอบชิงทุนนักเรียนแลกเปลี่ยนภาษาและวัฒนธรรม 2025 April [คลิกเพื่อเข้าชมผลงาน www.bewise-global.com](https://bewise-global.com/)
 
 ## Skills:
 
