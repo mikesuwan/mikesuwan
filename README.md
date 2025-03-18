@@ -22,6 +22,7 @@
 - เว็บไซต์งานสัมมนาที่จะช่วยเตรียมคุณให้พร้อมต่อการเติบโตและอนาคตของลูกที่คุณรัก TCAS Mastery: Parents' Guidebook 2024 [คลิกเพื่อเข้าชมผลงาน tcas-mastery-2024/](https://www.bewise-academy.com/BeWise/tcas-mastery-2024/)
 - เว็บไซต์ โปรแกรมพัฒนาศักยภาพและค้นหาตัวตน The Navigator [คลิกเพื่อเข้าชมผลงาน The Navigator](https://course.bewise-academy.com/)
 - เว็บไซต์ Course Online By Bewise [คลิกเพื่อเข้าชมผลงาน Course Online By Bewise](https://online.bewise-academy.com/)
+- เว็บสมัครเข้าร่วมโครงการ ค่ายพัฒนาศักยภาพภาษาอังกฤษ เพื่อการศึกษาต่อ [คลิกเพื่อเข้าชมผลงาน หน้าโครงการ](https://course.bewise-academy.com/english-ignite/))
 
 ## Skills:
 
