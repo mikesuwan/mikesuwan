@@ -33,7 +33,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://images.seeklogo.com/logo-png/27/1/ubuntu-logo-png_seeklogo-274045.png" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>   
