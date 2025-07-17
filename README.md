@@ -24,6 +24,7 @@
 - เว็บไซต์ Course Online By Bewise [คลิกเพื่อเข้าชมผลงาน Course Online By Bewise](https://online.bewise-academy.com/)
 - เว็บไซต์ สมัครเข้าร่วมโครงการ ค่ายพัฒนาศักยภาพภาษาอังกฤษ เพื่อการศึกษาต่อ [คลิกเพื่อเข้าชมผลงาน หน้าโครงการ](https://course.bewise-academy.com/english-ignite/))
 - เว็บไซต์ สมัครเข้าร่วมโครงการ โครงการประเมินและพัฒนาศักยภาพภาษาอังกฤษ (English Language Development and Evaluation: ELDE) [คลิกเพื่อเข้าชมผลงาน หน้าโครงการ](https://eldethailand.com/))
+- เว็บไซต์ รวม Chat FB, IG, Tiktok และ อื่น ๆ (กำลังพัฒนา)
 
 ## Skills:
 
