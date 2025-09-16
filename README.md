@@ -86,7 +86,7 @@
     </td>
           <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://images.seeklogo.com/logo-png/27/1/ubuntu-logo-png_seeklogo-274045.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
       <td align="center" width="96">
