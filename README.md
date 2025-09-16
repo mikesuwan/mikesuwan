@@ -35,7 +35,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://images.seeklogo.com/logo-png/27/1/ubuntu-logo-png_seeklogo-274045.png" width="48" height="48" alt="Html5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>   
