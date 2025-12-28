@@ -26,7 +26,7 @@
 - เว็บไซต์ สมัครเข้าร่วมโครงการ โครงการประเมินและพัฒนาศักยภาพภาษาอังกฤษ (English Language Development and Evaluation: ELDE) [คลิกเพื่อเข้าชมผลงาน หน้าโครงการ](https://eldethailand.com/))
 - เว็บไซต์ สมัครเข้าร่วมโครงการ มหกรรมติวเข้ม เตรียมสอบ TGAT [คลิกเพื่อเข้าชมผลงาน tgat-ready.bewise-academy](https://tgat-ready.bewise-academy.com/))
 - เว็บไซต์ รวม Chat FB, IG, Tiktok และ อื่น ๆ (กำลังพัฒนา)
-- เว็บไซต์ ระบบออร์เดอร์ร้านอาหาร (POS ScanFood) (กำลังพัฒนา)
+- เว็บไซต์ ระบบออร์เดอร์ร้านอาหาร (OrderFlow) JadPai (กำลังพัฒนา)
 
 ## Skills:
 
