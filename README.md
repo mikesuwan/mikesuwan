@@ -43,7 +43,7 @@
     </td>   
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
@@ -52,6 +52,12 @@
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#tailwind">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind
     </td>
      <td align="center" width="96">
       <a href="#js">
@@ -65,22 +71,48 @@
       </a>
       <br>Vue JS
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#nuxtjs">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt. js" />
+      </a>
+      <br>Nuxt.js
+    </td>     
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <a href="#vite">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
       <a href="#PHP">
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
-    </td>      
-  </tr>
-  
-  <tr>
+    </td> 
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#nodejs">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+     <td align="center" width="96">
+      <a href="#nestjs">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <a href="#MySQL">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
       </a>
