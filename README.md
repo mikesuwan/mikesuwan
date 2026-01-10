@@ -114,7 +114,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#socketio">
-        <img src="https://cdn.worldvectorlogo.com/logos/socket-io. svg" width="48" height="48" alt="Socket.io" />
+        <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="48" height="48" alt="Socket.io" />
       </a>
       <br>Socket.io
     </td>
