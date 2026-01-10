@@ -70,16 +70,16 @@
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
-    </td>
+    </td>   
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
       <a href="#nuxtjs">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt. js" />
       </a>
       <br>Nuxt.js
-    </td>     
-  </tr>
-  
-  <tr>
+    </td>  
     <td align="center" width="96">
       <a href="#vite">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
@@ -112,6 +112,12 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <a href="#socketio">
+        <img src="https://cdn.worldvectorlogo.com/logos/socket-io. svg" width="48" height="48" alt="Socket.io" />
+      </a>
+      <br>Socket.io
+    </td>
     <td align="center" width="96">
       <a href="#MySQL">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
