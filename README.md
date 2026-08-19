@@ -134,13 +134,13 @@
       <br>Ubuntu
       <td align="center" width="96">
       <a href="#git" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFVzIosFpOSRFDAIja3sr8ClXHps46ByjsjPa9W4L9Q&s" width="48" height="48" alt="Git" />
+        <img src="https://img.icons8.com/?size=256&id=20906&format=png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center"  width="96">
       <a href="#vscode">
-        <img src="https://img.icons8.com/?size=256&id=20906&format=png" width="48" height="48" alt="Jamstack" />
+        <img src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
