@@ -134,7 +134,7 @@
       <br>Ubuntu
       <td align="center" width="96">
       <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFVzIosFpOSRFDAIja3sr8ClXHps46ByjsjPa9W4L9Q&s" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
