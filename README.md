@@ -140,7 +140,7 @@
     </td>
       <td align="center"  width="96">
       <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
